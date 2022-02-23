@@ -76,7 +76,7 @@ export default function LoginPage() {
               label="Password"
               variant="outlined"
               type={showPassword ? "text" : "password"} // <-- This is where the magic happens
-              onBlur={(e) => {
+              onChange={(e) => {
                 setPassword(e.target.value);
               }}
               onKeyPress={(e) => {

@@ -4,7 +4,7 @@ export const AuthContext = createContext();
 
 const initialState = {
   email: "",
-  isLoggedIn: true,
+  isLoggedIn: false,
 
   loading: false,
 };

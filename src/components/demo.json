@@ -1,198 +1,95 @@
 {
-    "applicantInformation": {
-        "age": "12",
-        "applicantName": "Jubaer Tanjil Jami",
-        "birthDate": 986651967000,
-        "collegeStudied": "4",
-        "gradeSchoolStudied": "12",
-        "jobPosition": "Contractor",
-        "livingAddresses": [
-            "Lalbagh",
-            "Chattagram, Bangladesh"
-        ],
-        "livingAddressesFrom": [
-            1641564012000,
-            1628776820000
-        ],
-        "livingAddressesTo": [
-            1639836024000,
-            1639836024000
-        ],
-        "mobileNumber": "+1 (123) 124-232",
-        "physicalExamCertificateURL": "",
-        "physicalExamExpirationDate": 1643896767000,
-        "postGradStudied": "4",
-        "previousWorkFrom": 1638453567000,
-        "previousWorkInTheCompany": "Yes",
-        "previousWorkTo": 1644328767990,
-        "reasonForLeaving": "I don't like it herer",
-        "ss": "34",
-        "submissionDate": 1644328767990
-    },
-    "drivingExperience": {
-        "accidentRecords": {
-            "accidentDates": [
-                1643983367000,
-                1643896982000
-            ],
-            "locationOfAccidents": [
-                "Indiana",
-                "California"
-            ],
-            "natureOfAccidents": [
-                "Head On",
-                "Rear End"
-            ],
-            "numberOfFatalities": [
-                "12",
-                "56"
-            ],
-            "numberOfPeopleInjured": [
-                "12",
-                "12"
-            ]
-        },
-        "classOfEquipment": {
-            "straightTruck": {
-                "approximateNoOfMiles": "56",
-                "from": 1643810368000,
-                "to": 1644242368000
-            },
-            "tractorAndSemitrailers": {
-                "approximateNoOfMiles": "98",
-                "from": 1641650368000,
-                "to": 1644069568000
-            },
-            "tractorAndTripleTrailers": {
-                "approximateNoOfMiles": "34",
-                "from": 1643896768000,
-                "to": 1643983168000
-            },
-            "tractorAndTwoTrailers": {
-                "approximateNoOfMiles": "56",
-                "from": 1639663168000,
-                "to": 1643896768000
-            }
-        },
-       
-        "detailsAboutCrimes": {
-            "denialOfLicence": "bleh",
-            "felonyConviction": "gig ig",
-            "suspensionOfLicense": "bleh",
-            "unableToPerform": "yoy yo "
-        },
-        "driverLicenseList": {
-            "dates": [
-                1643896768000,
-                1644069878000
-            ],
-            "endorsements": [
-                "id ont now",
-                "9348"
-            ],
-            "licenceUrl": [
-                "https://firebasestorage.googleapis.com/v0/b/driver-tracking-c7772.appspot.com/o/%2B1%20(123)%20124-232%2FLicence0.jpg?alt=media&token=1a080422-eb96-4ef8-a69c-c87589470057",
-                "https://firebasestorage.googleapis.com/v0/b/driver-tracking-c7772.appspot.com/o/%2B1%20(123)%20124-232%2FLicence1.jpg?alt=media&token=bdca0681-4493-4234-8fdc-aa2b44c3e763"
-            ],
-            "licences": [
-                "er",
-                "23"
-            ],
-            "roadTestCertificateUrls": [
-                "https://firebasestorage.googleapis.com/v0/b/driver-tracking-c7772.appspot.com/o/%2B1%20(123)%20124-232%2FRoadTestCertificate0.jpg?alt=media&token=3b89bb58-486a-4672-90c6-3d60cca99c05",
-                "https://firebasestorage.googleapis.com/v0/b/driver-tracking-c7772.appspot.com/o/%2B1%20(123)%20124-232%2FRoadTestCertificate1.jpg?alt=media&token=a1500d72-c74c-4f87-9d94-98ce0430b5c6"
-            ],
-            "states": [
-                "Ohio",
-                "New jersey"
-            ],
-            "types": [
-                "bleh",
-                "9er"
-            ]
-        },
-
-        "listOfDrivingAwards": [
-            "Expert Driver Award(United States Postal Service)"
-        ],
-        "listOfSpecialTraining": [
-            "PTD/DDC",
-            "HAZMAT"
-        ],
-        "listOfStateOperated": [
-            "California",
-            "Alabama"
-        ],
-
-        "trafficConvictionRecords": {
-            "charges": [
-                "12",
-                "142"
-            ],
-            "dates": [
-                1644069800000,
-                1643897014000
-            ],
-            "locations": [
-                "Indiana",
-                "CAl"
-            ],
-            "penalites": [
-                "12",
-                "124"
-            ]
-        },
-
-        "unableToPerform": true,
-        "denialOfLicence": true,
-        "numberOfAccidents": 2,
-        "suspensionOfLicense": true,
-        "felonyConviction": true
-    },
-    "employmentHistory": {
-        "prevCompanyDOTRegulation": [
-            "No"
-        ],
-        "prevCompanyMobileNum": [
-            "+1 (124) 343"
-        ],
-        "prevCompanySubjectToFMCR": [
-            "Yes"
-        ],
-        "prevEmployerName": [
-            "kuddus ali"
-        ],
-        "prevEmploymentFrom": [
-            1047132048176
-        ],
-        "prevEmploymentTo": [
-            1118239252349
-        ],
-        "prevJobAddress": [
-            "indiana"
-        ],
-        "prevJobLeavingReason": [
-            "I didn't like it htere"
-        ],
-        "prevJobPosition": [
-            "ceo"
-        ]
-    },
-    "jobReferences": {
-        "jobRefererAddress": [
-            "cali",
-            "Jci",
-            "124"
-        ],
-        "jobRefererName": [
-            "kuddus",
-            "hail",
-            "INdia"
-        ],
-        "jobRefererNumber": [
-            "+1 (122) 3",
-            "+1 (343) 12",
-            "+1345"
-        ]
-    }
+    "age": "12",
+    "applicantName": "Jubaer Tanjil Jami",
+    "birthDate": "2001-04-07T13:59:27.000Z",
+    "collegeStudied": "4",
+    "gradeSchoolStudied": "12",
+    "jobPosition": "Contractor",
+    "livingAddress1": "Lalbagh",
+    "livingAddress1From": "2022-01-07T14:00:12.000Z",
+    "livingAddress1To": null,
+    "livingAddress2": "Chattagram, Bangladesh",
+    "livingAddress2From": "2021-08-12T14:00:20.000Z",
+    "livingAddress2To": "2021-12-18T14:00:24.000Z",
+    "mobileNumber": "+1 (123) 124-232",
+    "physicalExamCertificateURL": "",
+    "physicalExamExpirationDate": "2022-02-03T13:59:27.000Z",
+    "postGradStudied": "4",
+    "previousWorkFrom": "2021-12-02T13:59:27.000Z",
+    "previousWorkInTheCompany": "Yes",
+    "previousWorkTo": "2022-02-08T13:59:27.990Z",
+    "reasonForLeaving": "I don't like it herer",
+    "ss": "34",
+    "submissionDate": "2022-02-08T13:59:27.990Z",
+    "jobReferrer1Name": "kuddus",
+    "jobReferrer1Number": "+1 (122) 3",
+    "jobReferrer1Address": "cali",
+    "jobReferrer2Name": "hail",
+    "jobReferrer2Number": "+1 (343) 12",
+    "jobReferrer2Address": "Jci",
+    "jobReferrer3Name": "INdia",
+    "jobReferrer3Number": "+1345",
+    "jobReferrer3Address": "124",
+    "pastEmployment1prevCompanyDOTRegulation": "No",
+    "pastEmployment1prevCompanyMobileNum": "+1 (124) 343",
+    "pastEmployment1prevCompanySubjectToFMCR": "Yes",
+    "pastEmployment1prevEmployerName": "kuddus ali",
+    "pastEmployment1prevEmploymentFrom": "2003-03-08T14:00:48.176Z",
+    "pastEmployment1prevEmploymentTo": "2005-06-08T14:00:52.349Z",
+    "pastEmployment1prevJobPosition": "ceo",
+    "pastEmployment1prevJobAddress": "indiana",
+    "pastEmployment1prevJobLeavingReason": "I didn't like it htere",
+    "unableToPerform": "yoy yo ",
+    "denialOfLicence": "bleh",
+    "suspensionOfLicense": "bleh",
+    "felonyConviction": "gig ig",
+    "accident1Date": "2022-02-04T14:02:47.000Z",
+    "accident1Location": "Indiana",
+    "accident1Nature": "Head On",
+    "accident1Fatalities": "12",
+    "accident1Injured": "12",
+    "accident2Date": "2022-02-03T14:03:02.000Z",
+    "accident2Location": "California",
+    "accident2Nature": "Rear End",
+    "accident2Fatalities": "56",
+    "accident2Injured": "12",
+    "straightTruckMiles": "56",
+    "straightTruckFrom": "2022-02-02T13:59:28.000Z",
+    "straightTruckTo": "2022-02-07T13:59:28.000Z",
+    "tractorAndSemitrailersMiles": "98",
+    "tractorAndSemitrailersFrom": "2022-01-08T13:59:28.000Z",
+    "tractorAndSemitrailersTo": "2022-02-05T13:59:28.000Z",
+    "tractorAndTripleTrailersMiles": "34",
+    "tractorAndTripleTrailersFrom": "2022-02-03T13:59:28.000Z",
+    "tractorAndTripleTrailersTo": "2022-02-04T13:59:28.000Z",
+    "tractorAndTwoTrailersMiles": "56",
+    "tractorAndTwoTrailersFrom": "2021-12-16T13:59:28.000Z",
+    "tractorAndTwoTrailersTo": "2022-02-03T13:59:28.000Z",
+    "drivingAward1": "Expert Driver Award(United States Postal Service)",
+    "specialTraining1": "PTD/DDC",
+    "specialTraining2": "HAZMAT",
+    "stateOperated1": "California",
+    "stateOperated2": "Alabama",
+    "licence1ExpireDate": "2022-02-03T13:59:28.000Z",
+    "licence1endorsement": "id ont now",
+    "licence1LicenceUrl": "https://firebasestorage.googleapis.com/v0/b/driver-tracking-c7772.appspot.com/o/%2B1%20(123)%20124-232%2FLicence0.jpg?alt=media&token=1a080422-eb96-4ef8-a69c-c87589470057",
+    "licence1Licence": "er",
+    "licence1State": "Ohio",
+    "licence1Type": "bleh",
+    "roadTestCertificateUrl1": "https://firebasestorage.googleapis.com/v0/b/driver-tracking-c7772.appspot.com/o/%2B1%20(123)%20124-232%2FRoadTestCertificate0.jpg?alt=media&token=3b89bb58-486a-4672-90c6-3d60cca99c05",
+    "licence2ExpireDate": "2022-02-05T14:04:38.000Z",
+    "licence2endorsement": "9348",
+    "licence2LicenceUrl": "https://firebasestorage.googleapis.com/v0/b/driver-tracking-c7772.appspot.com/o/%2B1%20(123)%20124-232%2FLicence1.jpg?alt=media&token=bdca0681-4493-4234-8fdc-aa2b44c3e763",
+    "licence2Licence": "23",
+    "licence2State": "New jersey",
+    "licence2Type": "9er",
+    "roadTestCertificateUrl2": "https://firebasestorage.googleapis.com/v0/b/driver-tracking-c7772.appspot.com/o/%2B1%20(123)%20124-232%2FRoadTestCertificate1.jpg?alt=media&token=a1500d72-c74c-4f87-9d94-98ce0430b5c6",
+    "traficConviction1Date": "2022-02-05T14:03:20.000Z",
+    "traficConviction1Charge": "12",
+    "traficConviction1Location": "Indiana",
+    "traficConviction1Penalty": "12",
+    "traficConviction2Date": "2022-02-03T14:03:34.000Z",
+    "traficConviction2Charge": "142",
+    "traficConviction2Location": "CAl",
+    "traficConviction2Penalty": "124"
 }
