@@ -418,7 +418,7 @@ export default function HomePage() {
     get(child(dbRef, `users/`))
       .then((snapshot) => {
         if (snapshot.exists()) {
-          console.log(snapshot.val())
+  
           settingUserData(snapshot.val());
         } else {
           console.log("No data available");
