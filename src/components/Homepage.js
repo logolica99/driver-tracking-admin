@@ -1,5 +1,6 @@
 import "../styles/homepage.scss";
 import React, { useState, useEffect, useContext } from "react";
+import ExpiredDataTable from "./ExpiredDataTable";
 import { getDatabase, ref, child, get } from "firebase/database";
 import { ExportJsonCsv } from "react-export-json-csv";
 
@@ -453,6 +454,7 @@ export default function HomePage() {
       >
         EXPORT ALL DRIVER DATA
       </ExportJsonCsv>
+      <ExpiredDataTable/>
     </div>
   );
 }
